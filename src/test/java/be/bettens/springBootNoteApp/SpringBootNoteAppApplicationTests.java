@@ -12,6 +12,7 @@ public class SpringBootNoteAppApplicationTests {
 	@Test
 	public void contextLoads() {
 		//Given
+        System.out.println("ehello test");
 		//When
 		//Then
 	}
