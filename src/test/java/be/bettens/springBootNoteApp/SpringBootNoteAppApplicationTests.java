@@ -11,7 +11,12 @@ public class SpringBootNoteAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+		//Given
+		//When
+		//Then
+		//Add a coment to the manual feature branch test
+		//2036
+        //2116
 	}
 }
 
