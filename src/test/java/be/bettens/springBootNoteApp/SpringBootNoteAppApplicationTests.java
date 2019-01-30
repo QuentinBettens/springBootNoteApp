@@ -17,7 +17,7 @@ public class SpringBootNoteAppApplicationTests {
 		//When
         //try something else to get conflics
 		// bdfrvertropfedmlgkrbj
-
+// manual feature test
 
 	}
 
