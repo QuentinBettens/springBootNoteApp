@@ -11,20 +11,7 @@ public class SpringBootNoteAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		// conflic or not conflics ?
-		//Given
-        System.out.println("ehello test");
-		//When
-        //try something else to get conflics
-		// bdfrvertropfedmlgkrbj
-// manual feature test
 
 	}
-
-
-
-
-
-
 }
 
