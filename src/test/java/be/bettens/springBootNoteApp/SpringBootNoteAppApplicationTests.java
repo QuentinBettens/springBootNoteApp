@@ -11,6 +11,9 @@ public class SpringBootNoteAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		//Given
+		//When
+		//Then
 	}
 
 }
