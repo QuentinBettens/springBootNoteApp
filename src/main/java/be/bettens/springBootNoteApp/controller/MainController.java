@@ -20,7 +20,7 @@ public class MainController {
         this.noteRepository = noteRepository;
     }
 
-
+ // test git flow add comment
     @GetMapping(path = "/add") // Map ONLY GET Requests
     Note addNewNote() {
         // @ResponseBody means the returned Object is the response, not a view name
@@ -29,7 +29,7 @@ public class MainController {
         Note note = new Note();
         note.setTitle("myTitle");
         note.setDescription("myDescription");
-
+// add another comment to test pull request
 
         return noteRepository.save(note);
     }
