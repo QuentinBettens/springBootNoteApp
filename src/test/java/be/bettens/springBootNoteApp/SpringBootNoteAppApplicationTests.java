@@ -14,6 +14,7 @@ public class SpringBootNoteAppApplicationTests {
 		//Given
 		//When
 		//Then
+		//Add a coment to the manual feature branch
 	}
 }
 
