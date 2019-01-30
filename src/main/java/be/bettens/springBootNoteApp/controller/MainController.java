@@ -20,7 +20,7 @@ public class MainController {
         this.noteRepository = noteRepository;
     }
 
-
+ // test git flow add comment
     @GetMapping(path = "/add") // Map ONLY GET Requests
     Note addNewNote() {
         // @ResponseBody means the returned Object is the response, not a view name
